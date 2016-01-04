@@ -1,6 +1,0 @@
-#!/usr/bin/perl
-
-print "\tDémarrage du processus : $$\n";
-sleep 1;
-print "\tFin du processus : $$\n";
-exit 1;
